@@ -1,0 +1,55 @@
+<html>
+<head>
+<META HTTP-EQUIV="content-type" CONTENT="text/html"; CHARSET="iso-8859-2" CHARSET="UTF-8">
+</head>
+<body>
+<ol>
+<b>
+<li><p>pseudoelementem :first-line ---> Obejmuje formatowaniem cała pierwszą linie</p><br>
+<p>Przyklad:</p>
+<textarea rows=13 cols=40>
+<p>p<br>
+{<br>
+color:navy;<br>
+font-size:12pt;<br>
+}<br>
+p:first-line<br>
+{<br>
+color:red;<br>
+font-size:20pt;<br>
+font-weight:bold;<br>
+}<br></p></li></textarea>
+
+
+<li><p>pseudoelementy: :after oraz :before ---> Oba elementy służą do umieszczania tekstu przed i za formatowanym elementem strony</p><br>
+<p>Przyklad:</p>
+<textarea rows=16 cols=40>
+<p>p:before<br>
+{<br>
+content:"TO SĄ ĆWICZENIA";<br>
+font-size:15pt;<br>
+font-style:italic;<br>
+font-weight:bold;<br>
+}<br>
+p:after<br>
+{<br>
+content:"AUTOR Król Lew";<br>
+font-size:15pt;<br>
+font-style:italic;<br>
+font-weight:bold;<br>
+}</p><br></textarea>
+</li>
+<li><p>Pseudoelement :first-letter ---> pozwala na formatowanie pierwszej litery w bloku tekstu.</p>
+<p>Przyklad:<br>
+<textarea rows=13 cols=40>
+p<br>
+{<br>
+color:navy;<br>
+font-size:30pt;<br>
+}<br>
+p:first-letter<br>
+{<br>
+color:red;<br>
+font-size:100pt;<br>
+}<br></textarea>
+</html>

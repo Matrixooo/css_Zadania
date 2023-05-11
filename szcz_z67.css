@@ -1,0 +1,38 @@
+
+h1{	
+color:#0000cc;
+}
+h1:first-letter {	
+font-size:112pt;
+color:#C0C0C0;
+}
+
+p#M:first-letter{
+font-size:112pt;
+color:#ff0000;
+}
+p#M{	
+font-size:22pt;	
+color:#ffff00;	
+}
+
+p#S:first-letter {
+font-size:112pt;
+color:#ff0000;
+}
+p#S{	
+font-size:24pt;
+color:#ffff00;
+}
+
+p#A{
+color:#0000ff;
+font-size:14pt;	
+}
+p#A:first-line {
+color:#ff0000;	
+}
+p#A:first-letter {
+font-size:120pt;	
+}
+/*Mateusz Szczepaniak*/

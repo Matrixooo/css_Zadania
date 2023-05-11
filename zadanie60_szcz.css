@@ -1,0 +1,35 @@
+
+
+div#blok1_szczepaniak{
+	width:630;
+	background-color:#00ff00;
+	
+}
+div#blok2_szczepaniak{
+	width:630;
+	background-color:#00ff00;
+}
+
+div#blok3_szczepaniak{
+	width:630;
+	background-color:#00ff00;
+}
+
+div#blok1_szczepaniak:hover {/*zmiana koloru tekstu po najechaniu na niego */
+	font-size:24mm;
+	color:#ff0000;
+	
+}
+div#blok2_szczepaniak:hover{/*zmiana koloru tekstu po najechaniu na niego */
+	font-size:24mm;
+	color:#ffa500;
+}
+
+div#blok3_szczepaniak:hover{/*zmiana koloru tekstu po najechaniu na niego */
+	font-size:24mm;
+	color:#fefe33;
+}
+
+
+
+/*Szczepaniak Mateusz*/

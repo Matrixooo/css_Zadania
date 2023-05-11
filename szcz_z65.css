@@ -1,0 +1,42 @@
+body{
+background-color:#C0C0C0;
+}
+p{
+font-size:10pt;
+}
+p:first-child{
+font-size:9mm;
+font-style:italic;
+}
+div#pierwszy_szczepaniak{
+width:820pt;
+margin-left: auto;
+margin-right: auto;
+background-color:rgb(144, 238, 144);
+border-top-right-radius: 14px;
+border-top-left-radius:14px;
+border-bottom-right-radius:14px;
+border-bottom-left-radius:14px;
+border: solid 5px rgb(0,0,255);
+}
+div#drugi_szczepaniak{
+width:1020pt;
+background-color:rgb(135, 206, 250);
+border: solid 3px rgb(0,0,0);
+border-top-right-radius: 15px;
+border-top-left-radius:18px;
+border-bottom-right-radius:18px;
+border-bottom-left-radius:18px;
+}
+div#trzeci_szczepaniak{
+width:1220pt;
+background-color:rgb(255, 192, 203);
+border: solid 7px rgb(255,0,255);
+border-top-right-radius:15px;
+border-top-left-radius:9px;
+border-bottom-right-radius:9px;
+border-bottom-left-radius:9px;
+margin-left: auto;
+margin-right: auto;
+}
+/*Mateusz Szczepaniak*/
